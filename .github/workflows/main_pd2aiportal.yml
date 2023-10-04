@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'pd2aiportal'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E95CBC5ED9614CC686A6CA57B5012D27 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B94D68F64701402286DDF403CB3E4077 }}
           package: .
